@@ -1,0 +1,3 @@
+BasicのようなPythonのshellです。
+行番号付きでPythonのプログラムを作成し、save,load,runすることができます。
+EDITERのわずらわしさにとらわれず、プログラミングに集中できます。
